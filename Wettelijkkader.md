@@ -267,16 +267,16 @@ Elke gebruiker krijgt het recht om gegevens over te dragen aan derden, voor zove
 
 De Dataverordening vormt een uitzondering op de Open data richtlijn. Overheidsinstanties mogen namelijk geen van de gegevens die zij verzoeken en verkrijgen onder de Dataverordening actief voor hergebruik beschikbaar maken, zie artikel 17 lid 3 Dv. Eventueel zouden ze de gegevens onder lid 4 kunnen uitwisselen met de andere overheidsinstanties, de Europese Commissie, ECB of een orgaan van de Unie, of derde partijen die technische inspecties of andere taken moeten verrichten onder eigen verantwoordelijkheid. Die derde partijen hebben zich aan de strikte vertrouwelijkheidsvoorwaarden uit artikel 19 Dv te houden. Zie ook overweging 70 uit de preambule.
 
-### Richtlijn over de toegang van het publiek tot milieuinformatie
+### Richtlijn over de toegang van het publiek tot milieu-informatie
 
 Het recht op milieu-informatie is verankerd in verschillende regelgeving, zoals het Verdrag van Aarhus. Dit verdrag rust op drie pijlers: het recht op toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden. De Europese Unie is partij bij dit verdrag. richtlijn 2003/4/EG regelt verder de toegang van het publiek tot milieu-informatie. Milieu-informatie omvat (artikel 2, lid 1) alle informatie in geschreven, visuele, auditieve, elektronische of enige andere materiële vorm over:
 
-a)	De toestand van elementen van het milieu. Denk hierbij aan: lucht en de atmosfeer, water, bodem, land en landschap, natuurgebieden met inbegrip van vochtige biotopen, kust- en zeegebieden, biologische diversiteit en haar componenten, met inbegrip van genetisch gemodificeerde organismen, en de interactie tussen deze elementen;
-b)	Factoren die bovenstaande elementen van het milieu aantasten of waarschijnlijk aantasten. Hierbij wordt gedoeld op stoffen, energie, geluid, straling of afval (ook radioactief afval), emissies, lozingen en ander vrijkomen van stoffen;
-c)	Maatregelen. Dit omvat beleidsmaatregelen, wetgeving, plannen, programma’s, milieu-akkoorden en activiteiten die op bovengenoemde elementen en factoren een uitwerking hebben of kunnen hebben;
-d)	Verslagen over de toepassing van de milieuwetgeving;
-e)	Kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de hierboven genoemde maatregelen en activiteiten;
-f)	De toestand van de gezondheid en veiligheid van de mens. Denk hierbij aan de verontreiniging van de voedselketen of waardevolle cultuurgebieden en bouwwerken, voor zover zij aangetast kunnen worden door de hierboven bedoelde toestand van elementen van het milieu of, via deze elementen, door het genoemde onder sub b of sub c.
+* a)	De toestand van elementen van het milieu. Denk hierbij aan: lucht en de atmosfeer, water, bodem, land en landschap, natuurgebieden met inbegrip van vochtige biotopen, kust- en zeegebieden, biologische diversiteit en haar componenten, met inbegrip van genetisch gemodificeerde organismen, en de interactie tussen deze elementen;
+* b)	Factoren die bovenstaande elementen van het milieu aantasten of waarschijnlijk aantasten. Hierbij wordt gedoeld op stoffen, energie, geluid, straling of afval (ook radioactief afval), emissies, lozingen en ander vrijkomen van stoffen;
+* c)	Maatregelen. Dit omvat beleidsmaatregelen, wetgeving, plannen, programma’s, milieu-akkoorden en activiteiten die op bovengenoemde elementen en factoren een uitwerking hebben of kunnen hebben;
+* d)	Verslagen over de toepassing van de milieuwetgeving;
+* e)	Kosten-baten- en andere economische analyses en veronderstellingen die worden gebruikt in het kader van de hierboven genoemde maatregelen en activiteiten;
+* f)	De toestand van de gezondheid en veiligheid van de mens. Denk hierbij aan de verontreiniging van de voedselketen of waardevolle cultuurgebieden en bouwwerken, voor zover zij aangetast kunnen worden door de hierboven bedoelde toestand van elementen van het milieu of, via deze elementen, door het genoemde onder sub b of sub c.
 
 De Open Data richtlijn stelt minimumvoorschriften vast voor het hergebruik van documenten en informatie die in het bezit zijn van openbare lichamen van de staat. Aardobservatie en milieu wordt genoemd als categorie van een “hoogwaardige dataset”. In deze richtlijn wordt dus het rechtskader geschetst voor het hergebruik van overheidsinformatie en ook deze specifieke verzamelingen aan hoogwaardige datasets. 
 
